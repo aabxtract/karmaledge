@@ -1,3 +1,22 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "deed-1",
+      "description": "Person helping another person up.",
+      "imageUrl": "https://images.unsplash.com/photo-1664899303670-9b7662545a34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxoZWxwaW5nJTIwaGFuZHxlbnwwfHx8fDE3NjMzOTExNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "helping hand"
+    },
+    {
+      "id": "deed-2",
+      "description": "Person giving food to a homeless person.",
+      "imageUrl": "https://images.unsplash.com/photo-1593113616828-6f22bca04804?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaGFyaXR5JTIwZm9vZHxlbnwwfHx8fDE3NjM0MTc0Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "charity food"
+    },
+    {
+      "id": "deed-3",
+      "description": "Volunteers planting a tree.",
+      "imageUrl": "https://images.unsplash.com/photo-1758599668178-d9716bbda9d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx2b2x1bnRlZXIlMjBlbnZpcm9ubWVudHxlbnwwfHx8fDE3NjM0MTc0Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "volunteer environment"
+    }
+  ]
 }
